@@ -49,7 +49,7 @@
 		<div class="navFoot">
 			  <div class="privacy"><a href="https://healthy-yummy.com/law">SPECIFIED COMMERCIAL<br>TRANSACTION LAW</a></div>
 			  <div class="privacy"><a href="https://healthy-yummy.com/privacy-policy">PRIVACY POLICY</a></div>
-			<div class="copyright">&copy; 2016 healthy & Yummy</div>
+			<div class="copyright">&copy; 2018 healthy & Yummy</div>
 		</div>
 		</div>
 		
